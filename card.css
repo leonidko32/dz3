@@ -6,6 +6,7 @@ height: 515px;
 padding: 37px 35px;
 background: white;
 border-radius: 8px;
+box-shadow: 0px 0px 15px gray;
 }
 img{
    border-radius: 8px;
