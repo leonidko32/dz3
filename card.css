@@ -1,0 +1,29 @@
+.card
+{
+box-sizing: border-box;
+width: 350px;
+height: 515px;
+padding: 37px 35px;
+background: white;
+border-radius: 8px;
+}
+.picture
+{
+    
+    
+}
+img{
+    width: 100%;
+}
+body
+{
+    background: lightgrey;
+}
+.label
+{
+    font-family: Lato;
+    color: #B4B4B4;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.text1 .children
